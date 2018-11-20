@@ -1,0 +1,14 @@
+{
+  "satDelta": 0.08,
+  "resWidth": 1920,
+  "camName": "C920",
+  "maxHue": 255.0,
+  "hueDelta": 15.0,
+  "maxBri": 0.17745098,
+  "briDelta": 0.15,
+  "minHue": 225.0,
+  "maxSat": 0.3657143,
+  "minBri": -0.12254903,
+  "resHeight": 1080,
+  "minSat": 0.2057143
+}
